@@ -1,1 +1,1 @@
-"This is my second file" 
+I am changing the third file in Branch 1 and will commit the code
